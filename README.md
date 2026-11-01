@@ -1,7 +1,7 @@
-# 👋 Hi, I'm **Rajat Samarth** 🚀
+#  Hi, I'm **Rajat Samarth**
 
 <h3 align="center">
-  💻 Computer Science Student &nbsp;|&nbsp; 📊 Data Science Enthusiast &nbsp;|&nbsp; 🤖 AI/ML Explorer
+   Computer Science Student &nbsp;|&nbsp;  Data Science Enthusiast &nbsp;|&nbsp;  AI/ML Explorer
 </h3>
 
 <p align="center">
@@ -14,18 +14,18 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-🎓 I'm a **Computer Science student from India** passionate about technology, problem-solving, and building practical solutions.
+ I'm a **Computer Science student from India** passionate about technology, problem-solving, and building practical solutions.
 
-💡 My main interests include:
+ My main interests include:
 
-- 📊 **Data Science & Data Analytics**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🐍 **Python Programming**
-- 🌐 **Django & Backend Development**
-- 🗄️ **PostgreSQL & SQL**
-- 🚀 **Real-World Projects**
+-  **Data Science & Data Analytics**
+-  **Artificial Intelligence & Machine Learning**
+-  **Python Programming**
+-  **Django & Backend Development**
+-  **PostgreSQL & SQL**
+-  **Real-World Projects**
 
 I believe in:
 
@@ -33,27 +33,27 @@ I believe in:
 
 ---
 
-## 🧠 What I'm Working On
+##  What I'm Working On
 
 ```text
-📊 Data Science
+ Data Science
       ↓
-📈 Data Analysis & Visualization
+ Data Analysis & Visualization
       ↓
-🤖 Machine Learning
+ Machine Learning
       ↓
-🧠 Artificial Intelligence
+ Artificial Intelligence
       ↓
-🌐 Django Backend Development
+ Django Backend Development
       ↓
-🚀 Real-World Projects
+ Real-World Projects
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,7 +62,7 @@ I believe in:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Web & Backend
+###  Web & Backend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -71,7 +71,7 @@ I believe in:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 📊 Data Science & AI
+###  Data Science & AI
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -80,7 +80,7 @@ I believe in:
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Tools
+###  Database & Tools
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -92,15 +92,15 @@ I believe in:
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
-> 🚀 **To build a strong career in Data Science and AI by creating meaningful projects and applying technology to solve practical problems.**
+>  **To build a strong career in Data Science and AI by creating meaningful projects and applying technology to solve practical problems.**
 
 My goal is to continuously improve my technical skills, work on real-world projects, collaborate with talented people, and create solutions that make an impact.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -112,7 +112,7 @@ My goal is to continuously improve my technical skills, work on real-world proje
 
 ---
 
-## 🔥 GitHub Contribution Streak
+##  GitHub Contribution Streak
 
 <p align="center">
 
@@ -124,7 +124,7 @@ My goal is to continuously improve my technical skills, work on real-world proje
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
 
@@ -144,32 +144,32 @@ My goal is to continuously improve my technical skills, work on real-world proje
 
 ---
 
-<h2 align="center">💡 My Developer Philosophy</h2>
+<h2 align="center"> My Developer Philosophy</h2>
 
 <p align="center">
-  <b>💻 Code with Purpose</b>
+  <b> Code with Purpose</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>📊 Learn from Data</b>
+  <b> Learn from Data</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>🤖 Explore AI</b>
+  <b> Explore AI</b>
   <br><br>
-  <b>🚀 Build Real Solutions</b>
+  <b> Build Real Solutions</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>🌱 Keep Growing</b>
+  <b> Keep Growing</b>
 </p>
 
 ---
 
 <h2 align="center">
-  🚀 Learn • Build • Innovate • Grow 🚀
+   Learn • Build • Innovate • Grow 
 </h2>
 
 <p align="center">
-  ⭐ <b>Explore my repositories and let's build something meaningful together!</b> ⭐
+   <b>Explore my repositories and let's build something meaningful together!</b> 
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🙌</b>
+  <b>Thanks for visiting my profile! </b>
 </p>
 
 <p align="center">

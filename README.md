@@ -29,7 +29,7 @@
 
 I believe in:
 
-> **Learn → Build → Experiment → Solve → Grow 🚀**
+> **Learn → Build → Experiment → Solve → Grow **
 
 ---
 
